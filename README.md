@@ -18,7 +18,7 @@ Este repositório contém um script em bash para automatizar o processamento de 
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seuusuario/tb-profiler-automation.git
+    git clone https://github.com/selatayaran/tb-profiler-automation.git
     cd tb-profiler-automation
     ```
 
